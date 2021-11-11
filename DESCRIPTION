@@ -1,0 +1,13 @@
+Package: otoDomScraper
+Title: Scrap house estate data from otodom.pl
+Version: 0.0.1
+Authors@R: 
+    person("Piotr", "Kuglin", , "33781380+lothar1998@users.noreply.github.com", role = c("aut", "cre"))
+Description: Facilitates scraping house estate data from otodom.pl
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports:
+	tidyverse (>= 1.3.1),
+	rvest (>= 1.0.2)
